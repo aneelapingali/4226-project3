@@ -17,6 +17,8 @@ p{
 }
 body{
     background-color:rgb(93,84,177);
+    background-repeat:no-repeat;
+    background-size:cober;
     font-family: cursive;
 }
 ul{
